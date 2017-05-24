@@ -1,0 +1,16 @@
+header{
+  text-align: center;
+  margin: auto;
+  font-style: italic;
+  font-family: 'Barrio', cursive;
+  font-size: 40px;
+}
+.navigation ul{
+  display: inline;
+  font-family: 'Unica One', cursive;
+}
+
+.section{
+  float: left;
+  width: 300px;
+}
